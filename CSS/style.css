@@ -4,3 +4,7 @@ h3 {
   color: darkturquoise;
   text-decoration: underline;
 }
+p
+{
+    font-size: large;font-family: Arial, Helvetica, sans-serif;color: darkgoldenrod;
+}
