@@ -7,9 +7,13 @@ h3 {
 p {
   font-size: medium;
   font-family: Arial, Helvetica, sans-serif;
-  color: darkgoldenrod;
+  color: black;
 }
 li {
   background: coral;
   color: blue;
+}
+body
+{
+  background-color: aquamarine;
 }
