@@ -1,4 +1,4 @@
-Hellen's Biography
+Hellen's Biography/Profile
 
 #### This project is about the biography of Hellen, Version Date: 9th Sept 2022
 
@@ -6,7 +6,7 @@ Hellen's Biography
 
 ## Description
 
-This is a project about the biography of Hellen, the purpose and usage of the project is state more information on Hellen's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
+This is a project about the biography of Hellen, the purpose and usage of the project is to state more information on Hellen's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
 
 ## Setup/Installation Requirements
 

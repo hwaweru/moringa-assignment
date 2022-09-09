@@ -13,7 +13,10 @@ li {
   background: coral;
   color: blue;
 }
-body
-{
+body {
   background-color: aquamarine;
+}
+img
+{
+  border-style: solid;background-color: blue;
 }
