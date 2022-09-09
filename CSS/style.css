@@ -16,11 +16,16 @@ li {
 body {
   background-color: aquamarine;
 }
-img
-{
-  border-style: solid;background-color: blue;
+img {
+  border-style: solid;
+  background-color: blue;
 }
-title
-{
+title {
   font-style: italic;
+}
+div {
+  width: 750px;
+  border: 15px;
+  padding: 5px;
+  margin: 5px;
 }
