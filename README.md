@@ -22,7 +22,7 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding. 
 
 ## Support and contact details
 
