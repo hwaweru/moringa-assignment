@@ -30,7 +30,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## Github URL Link
 
-To view project click https://hwaweru.github.io/moringa-assign
+To view project click https://hwaweru.github.io/moringa-assignment
 
 
 ### License
